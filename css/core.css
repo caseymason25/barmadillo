@@ -1,0 +1,463 @@
+/*======================= A ========================*/
+/*======================= B ========================*/
+
+.bar-html-wrapper {
+    margin: 15px;
+    padding-bottom: 50px;
+}
+
+.bar-html-box {
+    -webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    padding: 2px;
+    border-radius: 20px 20px 10px 10px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #fafafa;
+}
+
+.bar-info-header {
+    padding: 10px 5px 10px 5px;
+    background-color: #fbfbfb;
+    border-bottom: #eee solid 2px;
+    border-top: #aaa solid 2px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.bar-info-header a {
+    color: #000;
+}
+
+.bar-info-header a:hover {
+    color: #363636;
+}
+
+.bar-info-header h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+
+.bar-info-header li {
+    display: inline-block;
+    margin: 0px 30px 0px 0px;
+}
+
+.bar-info-header ul {
+    list-style: none;
+}
+
+.bar-info-image {
+    background: #c0c0c0;
+    height: 450px;
+    width: 500px;
+}
+
+.bar-info-left-col {
+    font-size: 1rem;
+    vertical-align: top;
+    float: left;
+    min-width: 325px;
+    width: 40%;
+    background-color: #fafafa;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.bar-info-left-col h3 {
+    padding-bottom: 5px;
+}
+
+.bar-info-right-col {
+    font-size: 1rem;
+    vertical-align: top; 
+    background-color: #fbfbfb;
+    overflow: hidden;
+    width: 50%;
+    height: 100%;
+}
+
+.bar-info-row-1 {
+    font-size: 0; /* remove spacing between divs */
+    width: 100%;
+    min-width: 760px;
+    overflow:hidden;
+    margin: 10px 0px 25px 0px;
+}
+
+.bar-info-specials {
+    padding: 5px;
+    background-color: #fbfbfb;
+    width: 100%;
+}
+
+.bar-info-specials ul {
+    padding-left: 30px;
+}
+
+.bar-list-wrapper {
+    float: left;
+    padding: 10px;
+    min-width: 500px;
+}
+
+body {
+    font-family: arial, sans-serif;
+    height: 100%;
+}
+
+.bottom-line {
+    background: #c0c0c0;
+    width: 100%;
+    position:fixed;
+    bottom: 0px;
+    height: 20px;
+    padding: 2.5px;
+    min-width: 800px; 
+    color: #000;
+}
+
+.bottom-line ul {
+    list-style: none;
+    float: right;
+    margin-right: 30px;
+}
+
+.bottom-line li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.bottom-line p {
+    display: inline-block;
+}
+
+.bottom-line a {
+    text-decoration: none;
+    color: #000;
+}
+
+.bottom-line a:hover {
+    color: #363636;
+}
+
+/*======================= C ========================*/
+
+.city-list {
+    list-style: none;
+}
+
+.city-list li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.city-list a {
+    text-decoration: none;
+}
+
+.city-list a:hover {
+    text-decoration: underline;
+}
+
+/*======================= D ========================*/
+
+
+/*======================= E ========================*/
+/*======================= F ========================*/
+/*======================= G ========================*/
+
+.green-button {
+    font-size: 18px;
+    text-decoration: none;
+    border-top: #999 solid 2px;
+    border-right: #666 solid 3px;
+    border-bottom: #666 solid 3px;
+    border-left: #999 solid 2px;
+    border-radius: 10px;
+    padding:  5px 10px 5px 10px;
+    background: #00AE00;
+    margin-right: 15px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.green-button:hover {
+    border-top: #666 solid 2px;
+    border-right: #999 solid 3px;
+    border-bottom: #999 solid 3px;
+    border-left: #666 solid 2px;
+}
+/*======================= H ========================*/
+
+html {
+    height: 100%;
+}
+/*======================= I ========================*/
+/*======================= J ========================*/
+/*======================= K ========================*/
+/*======================= L ========================*/
+
+.login-error {
+    background-color: #ffffcc;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid #666;
+}
+
+.login-page-box .login-button {
+    margin: 0px auto; 
+    width: 100%; 
+    background-color: #00AE00; 
+    color: #fff; 
+    font-weight: bolder;
+    border-radius: 10px;
+    padding:  5px 10px 5px 10px;
+    cursor: pointer;
+}
+
+.login-page-box table {
+    margin: 0px auto;
+}
+
+.login-page-box {
+    width: 400px;
+    margin: 0px auto 0px auto;
+}
+
+.login-page-box .input-field {
+    background-color: #ffffcc;
+    margin: 2px;
+    padding: 5px;
+}
+
+
+
+
+/*======================= M ========================*/
+
+
+
+.main-search-area {
+    margin: 25px auto;
+    text-align: center;
+}
+
+.main-search-area .green-button {
+    margin-top: 10px;
+}
+
+.main-search-bar {
+    width: 500px;
+    padding: 3px;
+    box-shadow: inset 0 2px 3px rgba(0,0,0,0.2);
+}
+
+.main-search-box {
+    display: block;
+    margin: 25px auto;
+}
+
+.main-search-options {
+    list-style: none; 
+    padding-bottom: 10px;
+}
+
+.main-search-options li {
+    display: inline-block;
+}
+
+.main-search-options #radio-label {
+     padding: 5px 15px 5px 40px; 
+}
+
+.main-search-options #radio-main-label {
+    padding: 5px 15px 5px 5px; 
+}
+
+div#map-canvas {
+        height: 300px;
+        width: 400px;
+}
+      
+div#map-container {
+    border: 2px solid #666;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #e3e3e3;
+    height: 300px;
+    width: 400px;
+    margin: 0px auto;
+}
+
+.myaccount-box {
+    width: 300px;
+}
+
+.myaccount-box td {
+    padding-bottom: 10px;
+}
+
+.myaccount-box td.left-td {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.myaccount-box td.right-td {
+    text-align: left;
+    padding-left: 10px;
+}
+
+      
+/*======================= N ========================*/
+/*======================= O ========================*/
+/*======================= P ========================*/
+
+.price-search-options {
+    display: none;
+}
+/*======================= Q ========================*/
+/*======================= R ========================*/
+/*======================= S ========================*/
+
+.search-results-wrapper {
+    float: left;
+    padding: 10px;
+    
+}
+
+
+.search-result-box {
+    width: 500px;
+    margin: 0px 0px 15px 0px;
+    font-size: 15px;
+    border-bottom: solid 1px #ebebeb;
+    padding-bottom: 15px;
+}
+
+.search-result-box a {
+    text-decoration: none;
+}
+
+.search-result-box a:hover {
+    text-decoration: underline;
+}
+
+.search-result-box em {
+    font-style: normal;
+    font-weight: bold;
+}
+.search-result-box h2 {
+    font-weight: normal;
+    font-size: 22px;
+}
+
+.search-result-box span {
+    color: #B2792C;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.search-result-box span strong {
+    font-size: 10px;
+    vertical-align: top;
+}
+
+.sign-in-box {
+    width: 150px;
+    text-align: right;
+    float: right;
+    margin: 0px 0px 10px 0px;
+}
+
+.sign-in-top {
+    width: 100%;
+    min-width: 650px;
+    height: 75px;
+    padding: 40px 0px 10px 0px;
+}
+/*======================= T ========================*/
+
+.top-line {
+    background: #000; 
+    padding: 12.5px;
+    color: #FFF;
+    position:fixed;
+    height: 20px;
+    top: 0px;
+    width: 100%;
+    min-width: 800px; 
+}
+
+.top-line .date-time {
+    display: inline-block; 
+    text-align: center;
+    width: 400px; 
+    margin: 0px auto;
+    
+}
+
+.top-line .user-acount-area {
+    display: inline-block;
+    float: right;
+    text-align: center;
+    margin-right: 25px;
+    
+}
+
+.top-line ul {
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+}
+
+.top-line li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.top-line p {
+    display: inline-block;
+}
+
+.top-line a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.top-line a:hover {
+    color: #f5f5f5;
+}
+
+.top-search-bar {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background: #e3e3e3;
+    padding: 10px 0px 0px 0px;
+    border-bottom: #c0c0c0 solid 1px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.top-search-bar form {
+    width: 650px;
+    margin: 0px auto 0px auto;
+    
+}
+/*======================= U ========================*/
+/*======================= V ========================*/
+/*======================= W ========================*/
+
+.wrapper {
+    padding-top: 44px;
+    margin: 0px auto 0px auto; 
+    max-width: 1080px; 
+    min-width: 800px;
+}
+/*======================= X ========================*/
+/*======================= Y ========================*/
+/*======================= Z ========================*/
+

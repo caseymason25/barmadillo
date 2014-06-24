@@ -1,0 +1,9 @@
+Barmadillo Color Scheme
+
+Triad
+
+#B2792C
+#72FF97
+#FFB858
+#7632CC
+#6C35B2
